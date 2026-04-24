@@ -1,0 +1,4 @@
+customer,industry,revenue,last_interaction,issue,opportunity,notes
+ABC Corp,Fintech,200000,"Angry escalation call","Payment failures","Upsell premium support","High churn risk"
+XYZ Ltd,E-commerce,150000,"Positive demo","Slow dashboard","Cross-sell analytics module","Interested in expansion"
+Global Inc,Healthcare,300000,"Neutral check-in","Integration delays","Renewal coming up","Needs faster onboarding"
